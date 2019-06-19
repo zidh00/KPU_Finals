@@ -14,8 +14,8 @@ https://youtu.be/ag8m5JRkhf4 // 3. 개인 웹 서버 구축 및 파일 업로드
 https://youtu.be/Q5YflOzci10 // 4. 메일 전송 기능 구현하기<br>
 https://youtu.be/UtkPCu6UOtA // 5. 프로젝트 완성
 
-RWD (Responsive Web Design)
+RWD (Responsive Web Design)<br>
 Concept : Versace Web Site ReDesign // 1.Web 2.Tablet 3.Mobile
 
-My Web Server
+My Web Server<br>
 http://zidh00.cafe24.com/bootstrap/
