@@ -6,12 +6,12 @@
 
 Bootstrap Template Source
 https://startbootstrap.com/themes/freelancer/
-
+<br>
 Learning Source
-https://youtu.be/pQCCysli1Ds // 1. 부트스트랩 다운로드 및 프로필 설정
-https://youtu.be/NyRAGVXsO0E // 2. 자신의 포트폴리오 및 프로젝트 소개
-https://youtu.be/ag8m5JRkhf4 // 3. 개인 웹 서버 구축 및 파일 업로드
-https://youtu.be/Q5YflOzci10 // 4. 메일 전송 기능 구현하기
+https://youtu.be/pQCCysli1Ds // 1. 부트스트랩 다운로드 및 프로필 설정<br>
+https://youtu.be/NyRAGVXsO0E // 2. 자신의 포트폴리오 및 프로젝트 소개<br>
+https://youtu.be/ag8m5JRkhf4 // 3. 개인 웹 서버 구축 및 파일 업로드<br>
+https://youtu.be/Q5YflOzci10 // 4. 메일 전송 기능 구현하기<br>
 https://youtu.be/UtkPCu6UOtA // 5. 프로젝트 완성
 
 RWD (Responsive Web Design)
