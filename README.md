@@ -5,9 +5,9 @@
 ---Portfolio Site Development---<br>
 
 Bootstrap Template Source<br>
-https://startbootstrap.com/themes/freelancer/
+https://startbootstrap.com/themes/freelancer/ <br>
 <br>
-Learning Source
+Learning Source<br>
 https://youtu.be/pQCCysli1Ds // 1. 부트스트랩 다운로드 및 프로필 설정<br>
 https://youtu.be/NyRAGVXsO0E // 2. 자신의 포트폴리오 및 프로젝트 소개<br>
 https://youtu.be/ag8m5JRkhf4 // 3. 개인 웹 서버 구축 및 파일 업로드<br>
